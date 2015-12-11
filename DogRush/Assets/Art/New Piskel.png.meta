@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 1b66551e93bbc65419bafec95cdbbc89
+timeCreated: 1446062708
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: New Piskel_0
+    21300002: New Piskel_1
+    21300004: New Piskel_2
+    21300006: New Piskel_3
+    21300008: New Piskel_4
+    21300010: New Piskel_5
+    21300012: New Piskel_6
+    21300014: New Piskel_7
+    21300016: New Piskel_8
+    21300018: New Piskel_9
+    21300020: New Piskel_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: New Piskel_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 57
+        width: 146
+        height: 91
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 54
+        width: 150
+        height: 94
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 55
+        width: 141
+        height: 90
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 54
+        width: 142
+        height: 91
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel_4
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 60
+        width: 136
+        height: 114
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel_5
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 47
+        width: 139
+        height: 131
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel_6
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 57
+        width: 165
+        height: 111
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel_7
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 54
+        width: 157
+        height: 111
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel_8
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 54
+        width: 156
+        height: 111
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel_9
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 47
+        width: 159
+        height: 118
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: New Piskel_10
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 54
+        width: 157
+        height: 111
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
